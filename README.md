@@ -1,1 +1,1 @@
-TEXTO QUE APARECE NA HOME DO PERFIL
+![snake gif](https://github.com/GabehEPW/GabehEPW/blob/output/github-snake-dark.svg)
