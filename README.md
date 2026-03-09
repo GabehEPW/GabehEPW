@@ -6,10 +6,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabehEPW/GabehEPW/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabehEPW/GabehEPW/output/pacman-contribution-graph.svg">
 </picture>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GabehEPW&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GabehEPW&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabehEPW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
