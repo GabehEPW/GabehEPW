@@ -1,3 +1,14 @@
+👋 Hello, World!
+
+My name is Gabriel Eduardo P.W. 🚀
+I’m a technology enthusiast who is constantly learning more about programming, with a focus on Software Engineering.
+
+I enjoy building projects across different areas, exploring new ideas, and putting into practice everything I study. I'm always working on improving my skills and taking on new challenges.
+
+Besides programming, I also really enjoy games 🎮 and anime 🍥, which are a big part of my daily life and help inspire my creativity.
+
+💡 Always learning, always evolving.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabehEPW/GabehEPW/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabehEPW/GabehEPW/output/pacman-contribution-graph.svg">
